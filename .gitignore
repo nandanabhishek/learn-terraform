@@ -3,6 +3,8 @@
 
 *.tfstate.*
 
+*.terraform.lock.*
+
 # Ignore variables files
 *.auto.tfvars
 
